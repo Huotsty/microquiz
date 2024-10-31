@@ -1,0 +1,7 @@
+name: microquiz
+description: A simple dart quiz project
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
+dependencies:
+  collection: ^1.17.0

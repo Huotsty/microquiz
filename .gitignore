@@ -1,0 +1,15 @@
+# Dart package files
+.dart_tool/
+.packages
+.package_config.json
+
+# Build outputs
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies
+build/
+
+# Miscellaneous
+.DS_Store
+*.log
+pubspec.lock
